@@ -1,0 +1,22 @@
+05 - feb - 2022 #Disclaimer : the fomat date that I chosse is because the USA
+				format break my head xP
+
+So today I initiated this diary to document every progress, mistake and
+achievement that I make in my learning process.
+
+Today I worked in PY4E in chapter 14: Using Web Services.
+In the first autograde where the goal is to parser a XML file and extract some 
+numbers, I dint make to it. 
+
+Some kind of error ocurr in the final parsing of the file, when I solve it 
+the rest its gonna be easy.
+
+
+06 - feb - 2022
+
+I solved the problem, I saw a solution yesterday and confirmed a suspect, 
+the API KEY was causing the troubles for retrieving the info.
+
+I erased that part and the rest was straight forward.
+
+I gonna try the next problem later
