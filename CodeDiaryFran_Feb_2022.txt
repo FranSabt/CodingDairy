@@ -7,7 +7,7 @@ achievement that I make in my learning process.
 
 Today I worked in PY4E in chapter 14: Using Web Services.
 In the first autograde where the goal is to parse a XML file 
-and extract some numbers, I didn't make to i
+and extract some numbers, I didn't make to it.
 
 Some kind of error occur in the final parsing of the file, 
 when I solve it the rest its gonna be easy.
