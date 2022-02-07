@@ -1,15 +1,18 @@
-05 - feb - 2022 #Disclaimer : the fomat date that I chosse is because the USA
+05 - feb - 2022 #Disclaimer : the format date that I chose is because the USA
 				format break my head xP
+				Also is a issue of habit
 
 So today I initiated this diary to document every progress, mistake and
 achievement that I make in my learning process.
 
 Today I worked in PY4E in chapter 14: Using Web Services.
-In the first autograde where the goal is to parser a XML file and extract some 
-numbers, I dint make to it. 
+In the first autograde where the goal is to parse a XML file 
+and extract some numbers, I didn't make to i
 
-Some kind of error ocurr in the final parsing of the file, when I solve it 
-the rest its gonna be easy.
+Some kind of error occur in the final parsing of the file, 
+when I solve it the rest its gonna be easy.
+
+
 
 
 06 - feb - 2022
@@ -20,3 +23,27 @@ the API KEY was causing the troubles for retrieving the info.
 I erased that part and the rest was straight forward.
 
 I gonna try the next problem later
+
+Later: Problem solved! (ExtractingDataFromJSON)
+The mayor issue was that the JSON file have 2 main objects and 
+I need to traverse through the second that contains multiple sub-objects. 
+Normally I will make something like: 
+
+	for (i=0; i < length(ofTheObject); i++)
+		object[i][objective]
+
+So the problem was to adapt this algorithm in Python
+And a made this: 
+
+	i = 0
+	result = 0
+	count = 0
+
+	for items in info['comments']:
+  		result = result + int(info['comments'][i]['count'])
+  		i += 1 #this was necessary because Python don't have i++ sintaxis '¬¬'
+			also don't have the third condition in for loops '¬¬'
+  		count +=1
+
+
+
