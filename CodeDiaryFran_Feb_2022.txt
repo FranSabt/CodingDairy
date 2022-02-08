@@ -45,5 +45,10 @@ And a made this:
 			also don't have the third condition in for loops '¬¬'
   		count +=1
 
+07 - Feb - 2022
+
+Today I just study OOP, I don't get much of the thing and a need to repeat the Quiz.
+Also it occurred to me and app that can be usefull in my job tracking the kids at school dismissal time.
+"Dismissal it the correct word???"
 
 
