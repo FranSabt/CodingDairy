@@ -58,3 +58,16 @@ I only review a few concepts of debugging in TheOdinProject.
 My job left me tired today and I don't feel in good shape to code.
 BTW my grammar in english it's getting better!
 
+
+09 - Feb - 2022
+
+Today I went back to work with "Rock, Scissor, Paper, Lizzard, Spock", 
+making more o less 100 lines of code, it didn't see so much now, 
+before it was like madness to think in such size.
+
+So, The Odin Project doesn't ask for too much, if enough if the page prompts the results 
+but I wanna make a more interactive page.
+
+Another thing of the day, I learned that the "Switch" statement can only accept one parameter,
+so when I try to pass two parameters the code didn't work, for that reason, I refactored the code whit "If-Else"
+statement and then I learn that the "Break" statement in If-Else break the code.
