@@ -71,3 +71,10 @@ but I wanna make a more interactive page.
 Another thing of the day, I learned that the "Switch" statement can only accept one parameter,
 so when I try to pass two parameters the code didn't work, for that reason, I refactored the code whit "If-Else"
 statement and then I learn that the "Break" statement in If-Else break the code.
+
+
+10 - Feb - 2022
+
+I'm really tired today but I managed to advance in the JS code for RSPLS, which now tells you when you lose or win. 
+And fixed the lack of Tie case with a specific response for each case.
+Also I made a Quiz from PY4E.
