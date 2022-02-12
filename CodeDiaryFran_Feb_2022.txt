@@ -78,3 +78,7 @@ statement and then I learn that the "Break" statement in If-Else break the code.
 I'm really tired today but I managed to advance in the JS code for RSPLS, which now tells you when you lose or win. 
 And fixed the lack of Tie case with a specific response for each case.
 Also I made a Quiz from PY4E.
+
+11 - Feb - 2022
+
+Another PY4E Quiz passed, enough for today!
