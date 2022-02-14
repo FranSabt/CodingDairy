@@ -82,3 +82,7 @@ Also I made a Quiz from PY4E.
 11 - Feb - 2022
 
 Another PY4E Quiz passed, enough for today!
+
+13 - Feb - 2022
+
+For today I was learning about SQLite in PY4E, I saw almost every video of the chapter 
