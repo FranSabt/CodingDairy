@@ -96,3 +96,8 @@ Has been a great day!
 15 - Feb - 2022
 
 Advancing in the project, I'm making a HTML file for the game itself.
+
+16 - Feb - 2022
+
+I do another little step forward making the desing for the page where the user gonna play the game. 
+Also I kepp advancing in my readings of the Odin Proyect but I wanna to finish this project.
