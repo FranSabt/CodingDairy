@@ -112,3 +112,4 @@ Also I changed from Xubuntu to Lubuntu y my laptop, I like Lubuntu is even faste
 
 Today the progress whas little, I was reading "JS The Complete Guide", also a look for the  documentation
 of 'C', 'Python' and 'Rust', also I installed Rust on my machine.
+Update: I finished the last autogade, now it jus to finish the quizes.
