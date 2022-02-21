@@ -106,3 +106,9 @@ Also I kepp advancing in my readings of the Odin Proyect but I wanna to finish t
 
 The other day a make progress with RSPLS and commited to GitHub and today a maked trough one
 of the autogrades of PY4E, it just one to do, two quizes and it will be done.
+Also I changed from Xubuntu to Lubuntu y my laptop, I like Lubuntu is even faster.
+
+20 - Feb -2020
+
+Today the progress whas little, I was reading "JS The Complete Guide", also a look for the  documentation
+of 'C', 'Python' and 'Rust', also I installed Rust on my machine.
