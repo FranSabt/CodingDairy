@@ -119,3 +119,10 @@ Update: I finished the last autogade, now it jus to finish the quizes.
 
 Todays I finish the PY4E Course!!!
 I will rest from python for a few days and the a will start over from the begining
+
+23 - Feb - 2023
+
+Another great day!
+So now the hand selector for the RSPLS project is working, and not only put your image of the hand, 
+also put the numeric variable and return for the game can start.
+I need to check that everyting is working fine.
