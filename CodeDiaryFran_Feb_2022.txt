@@ -126,3 +126,8 @@ Another great day!
 So now the hand selector for the RSPLS project is working, and not only put your image of the hand, 
 also put the numeric variable and return for the game can start.
 I need to check that everyting is working fine.
+
+24 - Feb - 2020
+
+A sad day, a war as begun :c
+In code things, I was just reading about EMACS6
