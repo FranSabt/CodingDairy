@@ -131,3 +131,14 @@ I need to check that everyting is working fine.
 
 A sad day, a war as begun :c
 In code things, I was just reading about EMACS6
+
+25 - Feb - 2020
+
+Today's I been reading about JS, NodeJs, install Git and GitHub in my recient Lubuntu OS.
+I continue reading "JS the defintive guide" and The Odin Proyect about clean code, functions and arrays 
+this were topics that I feel confortable now but what's new to me is the TDD (test driven delevoment).
+The recomendation about comments in the code where also good to read even is some of then make seen obvius.
+I think it can be useful for certains project that the comment get's you to the documentationif applieds.
+Another important thing is the practice of make scketchs in paper before starting to code.
+
+In other no related touhgs "FORZA UCRANIA!!!"
