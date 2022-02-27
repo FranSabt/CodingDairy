@@ -142,3 +142,9 @@ I think it can be useful for certains project that the comment get's you to the 
 Another important thing is the practice of make scketchs in paper before starting to code.
 
 In other no related touhgs "FORZA UCRANIA!!!"
+
+26 - Feb -2022
+
+Another little step, today I learn to usethe "npm test ..." for the JS excersices of the OdinProject
+Also I get interested in TypeScript super-set of JS, I think it can be very useful.
+Also my pray's are with Ukraine!.
