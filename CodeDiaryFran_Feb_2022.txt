@@ -143,8 +143,13 @@ Another important thing is the practice of make scketchs in paper before startin
 
 In other no related touhgs "FORZA UCRANIA!!!"
 
-26 - Feb -2022
+26 - Feb - 2022
 
 Another little step, today I learn to usethe "npm test ..." for the JS excersices of the OdinProject
 Also I get interested in TypeScript super-set of JS, I think it can be very useful.
 Also my pray's are with Ukraine!.
+
+27 - Feb - 2020
+
+I made the IA to work by using a function that call others function, now I need that the functions return
+the counts of wins, loses, ties, etc....
