@@ -2,4 +2,11 @@
 
 So I screwup whit the RSPLS, there's a variable I cannot make it work.
 So Il will restart from the beginning, following the instruction of "The Odin Project".
-First step, ake the function, don't think in the user interface,
+First step, ake the function, don't think in the user interface.
+
+03 - March - 2022
+
+The code for RSP work jus fine, also I make trough another problem in teh set offerd by The Odin Project team.
+I need to remember that string don't finish inthe last letter, they finish in "\0" for colse the string.
+The JS interpreter reads the character has UNDEFINED.
+Forza Ukraine!!!
