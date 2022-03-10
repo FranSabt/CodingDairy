@@ -10,3 +10,9 @@ The code for RSP work jus fine, also I make trough another problem in teh set of
 I need to remember that string don't finish inthe last letter, they finish in "\0" for colse the string.
 The JS interpreter reads the character has UNDEFINED.
 Forza Ukraine!!!
+
+08 - March - 2022
+
+I'been lost, mostly because of the fracture of my mom. I re-started the PY4E couser and reding the book of the course.
+Also I made arepository whit the answers of the quizes and the autogrades, this last in the most Pythonic way that's possible to me.
+I hope that many people checked the repository.
