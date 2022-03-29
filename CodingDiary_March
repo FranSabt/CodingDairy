@@ -25,3 +25,8 @@ so I have to fix minor problems due to the changes.
 24 - March -2022
 
 I finish the first project for the Bootstrap course, I making a variant with my Apollo Project, slowly but it's taking shape.
+
+28 - March 2022
+
+Somethings really changed from Bootstrap 4 to 5, marging left it's no more "ml" classm it's "ms". 
+I need to fix the search-bar and the button response before to advance in the course.
